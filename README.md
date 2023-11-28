@@ -11,8 +11,19 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://github.com/gaabvasconcellos/easy-shoping/blob/master/img/desktop.png?raw=true" />
+<br>
+<br>
+<h1> Responsividade </h1>
 
-<p> Neste seguundo projeto aprendi a </p>
+<p> Neste segundo projeto aprendi que para tornar uma imagem responsiva, você precisa dar um novo valor à sua propriedade de largura. Em seguida, a altura da imagem se ajustará automaticamente. </p>
+
+<h3> Tecnologia utilizada </h3>
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br>
+
+<img src="https://github.com/gaabvasconcellos/easy-shoping/blob/master/img/Mobile.png?raw=true" />
+
 
 
 
